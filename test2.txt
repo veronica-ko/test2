@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test commit
+=======
+test changes
+>>>>>>> a7c7be4ed049a4431a732be684efa45413ab796c
